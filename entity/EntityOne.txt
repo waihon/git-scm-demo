@@ -1,1 +1,2 @@
 Entity 1.1
+Entity 1.2
